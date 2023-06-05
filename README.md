@@ -23,7 +23,7 @@
 
 ## About the Project
 
-> This project is built with React.js, it is about SPA with a TODO list to practice React.
+> This project is built with React.js, it is about to build a react app with a TODO list to practice React.
 
 ## Built With
 
