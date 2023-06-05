@@ -1,4 +1,3 @@
-/* eslint-disable */
 import { useState } from 'react';
 import styles from '../styles/TodoItem.module.css';
 

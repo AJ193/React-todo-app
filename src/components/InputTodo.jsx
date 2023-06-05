@@ -1,4 +1,3 @@
-/* eslint-disable */
 import { useState } from 'react';
 
 const InputTodo = ({ addTodoItem }) => {
